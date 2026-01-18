@@ -35,7 +35,7 @@ script.js
 - Add task counter
 
 ## 👩‍💻 Author
-Amvesha
+Anvesha
 
 ⭐ If you like this project, feel free to star the repository!
 
